@@ -15,9 +15,9 @@ The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride
 9. Performing Feature Engineering.
 10. Removing Outliers According to the Test Dataset.
 11. Training and Evaluating:
-####     a. Ridge Regression (Received a score of 6.93 on Kaggle)
-####     b. Random Forest Regression (Received a score of 4.49 on Kaggle)
-####     c. Gradient Boosting Model (Received a score of 4.06 on Kaggle)
+###     a. Ridge Regression (Received a score of 6.93 on Kaggle)
+###     b. Random Forest Regression (Received a score of 4.49 on Kaggle)
+###     c. Gradient Boosting Model (Received a score of 4.06 on Kaggle)
 12. Performing Hyperparameter Tuning for the best model (Gradient Boosting)
 13. Training the Final Gradient Boosting Model.
 14. Evaluating the Final Gradient Boosting Model (Received a score of 3.82 on Kaggle)
