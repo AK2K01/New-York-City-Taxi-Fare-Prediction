@@ -18,3 +18,6 @@ The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride
 12. Performing Hyperparameter Tuning for the best model (Gradient Boosting)
 13. Training the Final Gradient Boosting Model.
 14. Evaluating the Final Gradient Boosting Model (Received a score of 3.82 on Kaggle)
+
+### Dataset Source:
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
