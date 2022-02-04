@@ -31,7 +31,8 @@ The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride
 3. Random Forest Regressor
 4. XGB Regressor
 
-##### Best Model: XGB Regressor (Gradient Boosting Model)
+##### Best Model: 
+##### Name: XGB Regressor (Gradient Boosting Model)
 ##### Mean Squared Error(M.S.E.):
 ##### Training Set: $3.37
 ##### Validation Set: $4.44
