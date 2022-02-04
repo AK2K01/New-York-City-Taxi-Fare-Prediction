@@ -35,4 +35,4 @@ The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride
 ##### Mean Squared Error(M.S.E.):
 ##### Training Set: $3.37
 ##### Validation Set: $4.44
-##### Kaggle Score: $3.82
+##### Kaggle Score: $3.82 (Test Set)
