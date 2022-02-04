@@ -3,7 +3,7 @@
 ## Problem Statement
 The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. The basic estimate can be found, based on just the distance between the two points. However, this will result in an RMSE of $5 - $8, depending on the model used. The main challenge is to reduce the current RMSE to around $3 by using improved Machine Learning Models. This improvement can be carried out through Hyperparameter Tuning.
 
-## Tasks Performed:
+## Tasks Performed
 1. Downloading Required Dataset.
 2. Loading Training and Test Dataset.
 3. Exploring the Training and Test Datasets.
@@ -20,3 +20,17 @@ The main goal is to predict the fare amount (inclusive of tolls) for a taxi ride
 14. Evaluating the Final Gradient Boosting Model (Received a score of 3.82 on Kaggle)
 
 #### Dataset Source: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
+
+## Results
+1. Developed several Machine Learning Models.
+2. Compared the models according to a set of criteria and determined the best fit.
+
+## Models Used
+1. Linear Regressor
+2. Ridge Regressor
+3. Random Forest Regressor
+4. XGB Regressor
+
+##### Best Model: XGB Regressor (Gradient Boosting Model)
+##### Model Report:
+##### Mean Squared Error(M.S.E.): $(3.37 - 4.44)
